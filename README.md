@@ -1,15 +1,17 @@
-###Medical Adverse Events Reporting Systems
+##Healthcare_Malpractice_Informatics_System
 ----
-###Background:
-####Problem:
-Medical errors are responsive for many death and injuries world-wide. Government and hospitals need find a way to deal with them, reduce them. 
 
-####Solution
-####Features of this system
-* Anonymity of user identity
-* Easily to check the status of reports
-* Verified reports guarantee factual data
-* Statistic analysis for government and hospital to make future things right.
+####Problem:
+Medical errors are widely existing around us. 
+
+####Solution:
+Those malpractice caused so many tragedies, which could be somehow monitored or avoided by information architecture implementattion. Here the application comes out to try figuring this out or maybe improvement to some extend.
+
+#####Main Functionality 
+1 Anonymity of user identity
+2 Easily to check the status of reports
+3 Verified reports guarantee factual data
+4 Statistic analysis for government and hospital to make future things right.
 
 
 
