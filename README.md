@@ -8,10 +8,10 @@ Medical errors are widely existing around us.
 Those malpractice caused so many tragedies, which could be somehow monitored or avoided by information architecture implementattion. Here the application comes out to try figuring this out or maybe improvement to some extend.
 
 #####Main Functionality 
-1 Anonymity of user identity
-2 Easily to check the status of reports
-3 Verified reports guarantee factual data
-4 Statistic analysis for government and hospital to make future things right.
+1. Anonymity of user identity
+2. Check the progress when issuing reports
+3. User's Feedback
+4. Statistic analysis for government and hospital to make future things right.
 
 
 
